@@ -1,0 +1,122 @@
+html {
+  background-color: #fed5ed;
+}
+
+.container {
+  max-width: 1100px;
+  background-color: #f9f7f8;
+  position: relative;
+  margin: 50px auto;
+  border: 7px dotted #2a0018;
+  border-radius: 20px;
+  padding: 30px 50px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.cabecalho {
+  text-align: center;
+}
+
+.titulo {
+  font-weight: 500;
+  font-size: 40px;
+  color: #2a0018;
+}
+
+.texto {
+  font-size: 20px;
+  font-style: italic;
+}
+
+.imagem {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.biografia {
+  padding: 30px 0;
+  margin: 30px 0;
+  border-top: 3px dashed #2a0018;
+  border-bottom: 3px dashed #2a0018;
+}
+
+.subtitulo {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 500;
+  font-style: oblique;
+  color: #6e0e45;
+  padding-bottom: 10px;
+}
+
+.texto2 {
+  font-size: 18px;
+  text-align: justify;
+  font-weight: 500;
+  line-height: 1.5rem;
+}
+
+.fonte {
+  color: #2a0018;
+  font-weight: 700;
+}
+
+.citacoes {
+  background-color: #f5dcea;
+  padding: 30px;
+  margin-top: 40px;
+  border: 0px solid transparent;
+  border-radius: 0px 50px 0px 50px;
+}
+
+.citacoes blockquote {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.citacoes p {
+  font-style: italic;
+  font-weight: 600;
+}
+
+.curiosidades {
+  margin: 20px 0;
+}
+
+.curiosidades2 {
+  font-size: 30px;
+  padding: 20px 0;
+}
+
+.curiosidades li {
+  height: 70px;
+  line-height: 1.5rem;
+  font-size: 18px;
+  color: #2a0018;
+  font-weight: 600;
+  padding: 8px 0;
+}
+
+.curiosidades figure {
+  text-align: center;
+}
+
+.maisinfo {
+  margin: 60px 0;
+  text-align: center;
+}
+
+.maisinfo h2 {
+  font-size: 30px;
+  color: #6e0e45;
+  font-style: italic;
+}
+
+.maisinfo p {
+  font-size: 20px;
+  font-weight: 500;
+  color: #2a0018;
+}
